@@ -1,0 +1,10 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "api": "apps/api",
+    "next-app": "apps/next-app",
+    "next-app-e2e": "apps/next-app-e2e",
+    "shared-types": "libs/shared-types"
+  }
+}
